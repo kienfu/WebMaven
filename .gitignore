@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.log
+*.class
+
+# ignore ALL files in below directory
+/target/
