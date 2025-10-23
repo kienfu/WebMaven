@@ -1,3 +1,4 @@
 line1
 file2
+code2
 line3
